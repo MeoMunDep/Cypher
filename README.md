@@ -1,2 +1,1 @@
-# Cyber
-Auto faucet.
+https://cypher.z1labs.ai/testnet/
